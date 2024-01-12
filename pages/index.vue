@@ -27,7 +27,7 @@
       </div>
       <div class="w-full md:w-1/2">
         <div class="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-            <img src="https://images.unsplash.com/photo-1498049860654-af1a5c566876?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80">
+            <img src="../public/images/yellow.jpg">
           </div>
       </div>
     </div>
@@ -40,7 +40,7 @@
 
         <!-- Image -->
         <div class="box-border relative w-full max-w-md px-4 mt-5 mb-4 -ml-5 text-center bg-no-repeat bg-contain border-solid md:ml-0 md:mt-0 md:max-w-none lg:mb-0 md:w-1/2 xl:pl-10">
-            <img src="https://cdn.devdojo.com/images/december2020/productivity.png" class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 ">
+            <img src="../public/images/ami.jpg" class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 ">
         </div>
 
         <!-- Content -->
@@ -91,7 +91,7 @@
 
         <!-- Image -->
         <div class="box-border relative w-full max-w-md px-4 mt-10 mb-4 text-center bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
-            <img src="https://cdn.devdojo.com/images/december2020/settings.png" class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
+            <img src="../public/images/polo.jpg" class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
         </div>
     </div>
 </section>
